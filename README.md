@@ -1,3 +1,9 @@
+# Apex React Chart 
+Of Births in Canada 2020 by Province or Territory
+![Apex-React-Chart-Photo](https://user-images.githubusercontent.com/45835546/177693296-bac31f9c-665e-4748-bc11-bcbfd1138f60.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
